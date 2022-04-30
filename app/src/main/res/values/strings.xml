@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="title">Decimal to Binary</string>
+    <string name="heading">Decimal Number</string>
+    <string name="res">Result</string>
+    <string name="btn">Convert</string>
+
+<!--    <string name="select">Selectr</string>-->
+</resources>
